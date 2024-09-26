@@ -1,0 +1,16 @@
+img {
+    height: 400px;
+    width: 300px;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    border: 2px solid;
+    padding: 2px;
+}
+    
+.flex
+{
+    display: flex;
+}
